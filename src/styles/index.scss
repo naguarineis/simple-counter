@@ -11,3 +11,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.counter-container {
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+.counter-container div {
+    font-size: 70px;
+    line-height: 70px;
+    
+    background: #101010;
+    color: white;
+    padding: 30px;
+}
